@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SpendWise</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="add_expense_title">Add Expense</string>
+    <string name="expense_list_title">Expense List</string>
+    <string name="expense_details_title">Expense Details</string>
+    <string name="summary_title">Monthly Summary</string>
+    
+    <string name="total_balance">Total Balance: $0.00</string>
+    <string name="recent_expenses">Recent Expenses</string>
+    <string name="no_expenses">No expenses added yet.</string>
+    
+    <string name="amount_hint">Amount</string>
+    <string name="category_hint">Category</string>
+    <string name="date_hint">Date</string>
+    <string name="note_hint">Note</string>
+    <string name="save_button">Save Expense</string>
+    
+    <string name="edit_button">Edit</string>
+    <string name="delete_button">Delete</string>
+    
+    <string name="total_spent">Total Spent: $0.00</string>
+</resources>
